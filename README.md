@@ -1,17 +1,21 @@
-## Тютиков Евгений
+## Tyutikov Evgeniy
 
-## Знания в IT:
+##  IT:
+
+## Front-End
 ### HTML 8/10
 ### CSS 7/10
 - **Figma**
 - **Pixso**
-- Фреймворк **Bootstrap** 5/10
-
 ### JavaScript 5/10  
 
-
-### Front-End фраймворки:
+### Front-End frameworks:
+- **Bootstrap** 5/10
 - **Jue.js** 5/10
+
+
+## Back-End:
+- **php** 3/10
 <!--
 **TutEvgen1984/TutEvgen1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
